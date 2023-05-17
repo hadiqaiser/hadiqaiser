@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Purple Carrot](https://www.purplecarrot.com/)
 
-- 🌱 I’m currently learning **Nuxt.js, and Web3**
+- 🌱 I’m currently learning **Next.js, and Web3**
 
 - 💬 Ask me about **React, Node, Rails**
 
