@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, Node, Rails**
 
-- 📫 How to reach me **hadiqaiser1996@gmail.com**
-
 <p align="left">
 </p>
 
