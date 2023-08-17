@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiqaiser&label=Profile%20views&color=0e75b6&style=flat" alt="hadiqaiser" /> </p>
 
-- 🔭 I’m currently working on [The Purple Carrot](https://www.purplecarrot.com/)
+- 🔭 I’ve worked on many great projects.
 
 - 🌱 I’m currently learning **Next.js, and Web3**
 
