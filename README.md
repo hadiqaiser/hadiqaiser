@@ -5,7 +5,7 @@
 
 - 🔭 I’ve worked on many great projects.
 
-- 🌱 I’m currently learning **Next.js, and Web3**
+- 🌱 I’m currently learning **Ruby on Rails, and Web3**
 
 - 💬 Ask me about **React, Next, Node & JavaScript**
 
