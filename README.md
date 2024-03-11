@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hadi</h1>
-<h3 align="center">A passionate Full-Stack Ruby on Rails Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
+<h3 align="center">Experienced Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiqaiser&label=Profile%20views&color=0e75b6&style=flat" alt="hadiqaiser" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, and Web3**
 
-- 💬 Ask me about **React, Node, Rails**
+- 💬 Ask me about **React, Next, Node & JavaScript**
 
 <p align="left">
 </p>
